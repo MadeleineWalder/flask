@@ -1,0 +1,4 @@
+/* Makes sure image fits column and doesn't spill out */
+.col-md-5 img {
+    width: 100%;
+}
